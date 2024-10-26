@@ -40,7 +40,7 @@ public class ReportesView extends JFrame {
 
         // Acción para el botón de exportar a Excel
         exportarExcelButton.addActionListener((ActionEvent e) -> {
-            String filePath = "C:/Users/nebra/Downloads/ventas_del_dia.xlsx";
+            String filePath = "C:/Users/arman/Downloads/ventas_del_dia.xlsx";
             controller.exportarAExcel(filePath);
             JOptionPane.showMessageDialog(null, "Ventas exportadas a Excel correctamente!");
         });
