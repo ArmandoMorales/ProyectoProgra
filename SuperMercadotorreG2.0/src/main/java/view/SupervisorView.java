@@ -8,10 +8,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/**
- *
- * @author nebra
- */
+
 public class SupervisorView extends javax.swing.JFrame {
    public SupervisorView() {
         setTitle("Supervisor");
