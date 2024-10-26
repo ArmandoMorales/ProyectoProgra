@@ -47,7 +47,7 @@ public class ReportesView extends JFrame {
 
         // Acción para el botón de exportar a PDF
         exportarPDFButton.addActionListener((ActionEvent e) -> {
-            String filePath = "C:/Users/nebra/Downloads/ventas_del_dia.pdf";
+            String filePath = "C:/Users/arman/Downloads/ventas_del_dia.pdf";
             controller.exportarAPDF(filePath);
             JOptionPane.showMessageDialog(null, "Ventas exportadas a PDF correctamente!");
         });
