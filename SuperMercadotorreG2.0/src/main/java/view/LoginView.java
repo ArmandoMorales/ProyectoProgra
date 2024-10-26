@@ -15,10 +15,7 @@ import model.Usuario;
 
 import java.awt.event.ActionEvent;
 
-/**
- *
- * @author nebra
- */
+
 import Controller.UsuarioController;
 import java.awt.event.ActionListener;
 
