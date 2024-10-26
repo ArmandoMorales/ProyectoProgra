@@ -327,7 +327,7 @@ public class VentaView extends JFrame {
         controller.crearVenta(venta);
 
         // Crear la carpeta si no existe
-        String directorio = "C:\\Users\\nebra\\Documents\\NetBeansProjects\\SupermercadoTorre\\src\\main\\java\\Facturas";
+        String directorio = "C:\\Users\\arman\\Documents\\NetBeansProjects\\SupermercadoTorre\\src\\main\\java\\Facturas";
         File carpeta = new File(directorio);
         if (!carpeta.exists()) {
         carpeta.mkdirs();
