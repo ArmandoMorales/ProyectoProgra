@@ -6,10 +6,7 @@ package com.umg;
 
 import view.LoginView;
 
-/**
- *
- * @author nebra
- */
+
 public class SuperMercadotorreG20 {
 
     public static void main(String[] args) {
