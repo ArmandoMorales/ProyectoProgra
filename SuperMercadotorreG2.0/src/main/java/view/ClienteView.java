@@ -16,10 +16,7 @@ import model.Cliente;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.SwingUtilities;
-/**
- *
- * @author nebra
- */
+
 public class ClienteView extends javax.swing.JFrame {
     private JTextField idField;
     private JTextField nombreField;
