@@ -4,10 +4,7 @@
  */
 package Utilidades;
 
-/**
- *
- * @author nebra
- */
+
 public class CodeGenerador {
     
 }
