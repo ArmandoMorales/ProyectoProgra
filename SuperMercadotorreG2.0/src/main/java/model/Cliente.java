@@ -4,10 +4,7 @@
  */
 package model;
 
-/**
- *
- * @author nebra
- */
+
 public class Cliente {
     private int id;
     private String nombre;
