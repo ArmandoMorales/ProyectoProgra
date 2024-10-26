@@ -17,10 +17,7 @@ import model.MovimientoInventario;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.Timestamp;
-/**
- *
- * @author nebra
- */
+
 public class InventarioView extends javax.swing.JFrame {
    
     private JTextField productoCodigoField;
