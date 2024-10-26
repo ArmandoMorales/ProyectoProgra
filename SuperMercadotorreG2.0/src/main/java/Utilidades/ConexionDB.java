@@ -7,10 +7,8 @@ package Utilidades;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-/**
- *
- * @author nebra
- */
+
+
 public class ConexionDB {
     private static final String URL = "jdbc:mysql://127.0.0.1:3306/SupermercadoLaTorre"; // o usa SupermercadoTorreG si esa es la correcta
 ;
