@@ -4,10 +4,7 @@
 */
 package Controller;
 
-/**
- *
- * @author nebra
- */
+
 
 import model.Venta;
 import Utilidades.ConexionDB;
