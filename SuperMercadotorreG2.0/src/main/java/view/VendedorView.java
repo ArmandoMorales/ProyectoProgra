@@ -8,10 +8,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/**
- *
- * @author nebra
- */
+
 public class VendedorView extends javax.swing.JFrame {
      public VendedorView() {
         setTitle("Vendedor");
