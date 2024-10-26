@@ -4,10 +4,7 @@
  */
 package model;
 
-/**
- *
- * @author nebra
- */
+
 public class DetalleVenta {
     private int id;
     private int ventaId;
