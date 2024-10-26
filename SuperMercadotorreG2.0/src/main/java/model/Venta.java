@@ -5,11 +5,6 @@
  */
 package model;
 
-
-/**
- *
- * @author nebra
- */
 import java.sql.Timestamp;
 import java.util.List;
 
