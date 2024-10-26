@@ -12,11 +12,6 @@ import java.sql.SQLException;
 import java.sql.ResultSet;
 
 
-/**
- *
- * @author nebra
- */
-
 
 public class InventarioController {
 
