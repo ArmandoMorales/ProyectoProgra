@@ -10,10 +10,8 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-/**
- *
- * @author nebra
- */
+
+
 public class UsuarioController {
     
     public Usuario autenticarUsuario(String username, String password) {
