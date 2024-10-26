@@ -5,11 +5,6 @@
 package view;
 
 
-/**
- *s
- * @author nebra
- */
-
 import Controller.ReporteController;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
