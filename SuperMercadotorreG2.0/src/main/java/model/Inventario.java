@@ -4,10 +4,7 @@
  */
 package model;
 
-/**
- *
- * @author nebra
- */
+
 public class Inventario {
     private int id;
     private String productoCodigo;
