@@ -4,10 +4,6 @@
  */
 package Controller;
 
-/**
- *
- * @author nebra
- */
 
 
 import model.Venta;
