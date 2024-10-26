@@ -6,10 +6,7 @@ package model;
 
 import java.sql.Timestamp;
 
-/**
- *
- * @author nebra
- */
+
 public class MovimientoInventario {
     private int id;
     private String productoCodigo;
